@@ -1,0 +1,13 @@
+.danhsach{
+    padding-right: 40px;
+    width: 400px;
+}
+
+.gach{
+    text-decoration-line: line-through;
+    cursor: pointer;
+}
+
+.noGach{
+cursor: pointer;
+}
